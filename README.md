@@ -18,3 +18,4 @@ The following **required** functionality is completed:
 - [✓] Users can view posts they've created in their feed.	
 
 ## Video Walkthrough
+![lab22](https://github.com/user-attachments/assets/f5017a8a-57f4-4268-a735-99ba8e08453c)
