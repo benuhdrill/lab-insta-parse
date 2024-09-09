@@ -2,7 +2,7 @@
 
 Submitted by: **Ben Gmach**
 
-**Instaparse** is an app that shares idenitcal to instagram where a user can sign up and select photos from their phot album to post to their feed.
+**Instaparse** is an app that is similar to instagram where a user can sign up and select photos from their photo album to post to their feed.
 
 Time spent: **1** hours spent in total
 
